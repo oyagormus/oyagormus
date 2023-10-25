@@ -14,7 +14,7 @@
 Technologies:
 
 
-[![Technologies:](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>)](https://skillicons.dev)
+[![Technologies:](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react)](https://skillicons.dev)<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
 
 Tools:
 
