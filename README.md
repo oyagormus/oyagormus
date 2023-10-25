@@ -14,7 +14,7 @@
 Technologies:
 
 
-[![Technologies:](https://skillicons.dev/icons?i=js,html,css,html,nodejs,react,sql)](https://skillicons.dev)
+[![Technologies:](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,sql)](https://skillicons.dev)
 
 Tools:
 
