@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+</div>
+
 ### Hey. I'm Oya. 👋
 
 
@@ -20,6 +24,8 @@ Tools:
 
 
 [![Tools:](https://skillicons.dev/icons?i=discord,vscode,photoshop,gitlab,github,git,slack,trello)](https://skillicons.dev)
+
+
 
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
