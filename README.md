@@ -22,9 +22,7 @@ Tools:
 [![Tools:](https://skillicons.dev/icons?i=discord,vscode,photoshop,gitlab,github,git,slack,trello)](https://skillicons.dev)
 
 
-<div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Oya. I like code. Thanks for reading.">
-</div>
+<img src="https://github.com/raghavk16/raghavk16/raw/master/coderman.gif" alt="Coder" height="250" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
