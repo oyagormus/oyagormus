@@ -12,11 +12,12 @@
 [![✨linkedin✨](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oyagormus/)
 
 
-  Technologies:
-javascript react git bootstrap css3 html5 sql node.js
+[![Technologies:](https://skillicons.dev/icons?i=js,html,css,html,nodejs,react,sql)](https://skillicons.dev)
 
-Tools:
-vscode discord slack postman heroku photoshop trello gitLab
+[![Tools:](https://skillicons.dev/icons?i=discord,vscode,slack,photoshop,trello,gitlab,github,git)](https://skillicons.dev)
+
+
+ 
 
 
 
