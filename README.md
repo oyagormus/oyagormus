@@ -3,11 +3,11 @@
 <img src="https://github.com/raghavk16/raghavk16/raw/master/coderman.gif" alt="Coder" height="250" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
   
-👾 I’m currently working with React.js, JavaScript, CSS, HTML, Node.js and Bootstrap.
+👾 I’m currently working with JavaScript, CSS, HTML, Node.js and Bootstrap.
 
 💻 I love writing code and learn anythings about it.
 
-🤔 I’m currently learning fronted end backend ...
+🤔 I’m currently learning fronted end back ...
 
 📫 How to reach me oyagormuss@icloud.com.
 
