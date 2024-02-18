@@ -33,7 +33,6 @@ Technologies:
 
 
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" style="max-width: 100%;"> 
 
 
 
