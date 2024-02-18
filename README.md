@@ -18,10 +18,7 @@ Technologies:
 
 [![Technologies:](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
-Tools:
 
-
-[![Tools:](https://skillicons.dev/icons?i=discord,vscode,photoshop,gitlab,github,git,slack,trello)](https://skillicons.dev)
 
 
 
