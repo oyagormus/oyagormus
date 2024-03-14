@@ -9,8 +9,6 @@
 
 📫 How to reach me oyagormuss@icloud.com.
 
-[![✨linkedin✨](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/oyagormus/](https://www.linkedin.com/in/oya-g%C3%B6rm%C3%BC%C5%9F-1562002b3/))
-
 
 
 Technologies:
